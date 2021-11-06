@@ -1,0 +1,15 @@
+{
+  "name": "the_andromeda_bot",
+  "version": "1.0.0",
+  "description": "General Telegram Bot - Andromeda",
+  "main": "andromeda.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jake Wagner",
+  "license": "ISC",
+  "dependencies": {
+    "botgram": "^2.2.0",
+    "request": "^2.88.2"
+  }
+}
