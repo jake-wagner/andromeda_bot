@@ -8,7 +8,7 @@ var request = require('request');
 var fs = require('fs');
 
 // Variables
-var bot = botgram("429095116:AAHsO-qSf3uMY33rTSIpxnXP2JaYOiEcCCI");
+var bot = botgram("BOT_TOKEN");
 var slaps = ["{0} went up in flames",
 "{0} burned to death",
 "{0} got smacked down",
